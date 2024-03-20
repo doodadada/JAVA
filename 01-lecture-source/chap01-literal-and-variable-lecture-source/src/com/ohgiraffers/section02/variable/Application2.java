@@ -102,6 +102,10 @@ public class Application2 {
         System.out.println("isTrue의 값 출력 : " + isTrue);
 
         System.out.println("str의 값 출력 : " + str);
+        char ch3 = 1;
+        char ch4 = 49;
+        System.out.println("ch3의 값 출력 : " + ch3);
+        System.out.println("ch4의 값 출력 : " + ch4);
 
     }
 
