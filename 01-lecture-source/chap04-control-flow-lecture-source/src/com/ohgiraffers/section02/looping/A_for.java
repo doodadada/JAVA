@@ -163,4 +163,35 @@ public class A_for {
 
     }
 
+    public void printSimpleGugudan(){
+
+        /* 수업목표. 무엇을 반복하는지 확인하여 반복문으로 개선할 수 있다.*/
+        /*
+        *  키보드로 2~9사이에 구구단을 입력받아
+        *  2~9사이에 경우 해당 단의 구구단을 출력하고
+        *  그렇지 않은 경우 "반드시 2~9 사이의 양수를 입력해야합니다."를 출력한다
+        * */
+
+        Scanner sc = new Scanner(System.in);
+        System.out.print("2~9 사이의 단을 입력해주세요 : ");
+        int dan = sc.nextInt();
+        if(2<=dan && dan<=9){
+            System.out.println(dan+"단");
+            for (int i = 1; i<=9; i++){
+                System.out.println(dan +"*"+i+"="+(dan*i));
+            }
+        }else if(dan == 0){
+            for (int i = 2; i<=9; i++){
+                System.out.println(i+"단");
+                for(int j= 1; j<=9;j++){
+                    System.out.println(i +"*"+j+"="+(i*j));
+                }
+                System.out.println("");
+            }
+        }else{
+            System.out.println("반드시 2~9 사이의 양수를 입력해야합니다.");
+        }
+
+    }
+
 }
