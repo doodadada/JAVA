@@ -34,9 +34,9 @@ public class Application1 {
         Calculator cal = new Calculator(); //Calculator class의 함수를 사용하기 위한 객체 생성
 
         cal.checkMethod();
-        System.out.println("10과 20의 합 : "+cal.sumTowNumber(10, 20));
-        System.out.println("10과 5의 차 : "+cal.minusTowNumber(10, 5));
-        System.out.println("10과 5의 곱 : "+cal.multiTowNumber(10, 5));
-        System.out.println("10과 5의 나눈 후 몫 : "+cal.divideTowNumber(10, 5));
+        System.out.println("10과 20의 합 : " + (cal.sumTowNumber(10, 20)));
+        System.out.println("10과 5의 차 : " + (cal.minusTowNumber(10, 5)));
+        System.out.println("10과 5의 곱 : " + (cal.multiTowNumber(10, 5)));
+        System.out.println("10과 5의 나눈 후 몫 : " + (cal.divideTowNumber(10, 5)));
     }
 }
