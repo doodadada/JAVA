@@ -38,5 +38,6 @@ public class Application1 {
         System.out.println("10과 5의 차 : " + (cal.minusTowNumber(10, 5)));
         System.out.println("10과 5의 곱 : " + (cal.multiTowNumber(10, 5)));
         System.out.println("10과 5의 나눈 후 몫 : " + (cal.divideTowNumber(10, 5)));
+        System.out.println("test : "+(1/3));
     }
 }

@@ -13,9 +13,12 @@ public class Application2 {
     public static void main(String[] args) {
         double width =12.5;
         double height = 36.4;
+        //변수에 담고랬는데 안담아서 감점임 아래 코드를 추가함.
+        double area = (width*height);
+        double round = (width*2+height*2);
 
-        System.out.println("면적 : "+(width*height));
-        System.out.println("둘레 : "+(width*2+height*2));
+        System.out.println("면적 : "+area);
+        System.out.println("둘레 : "+round);
 
 
     }
