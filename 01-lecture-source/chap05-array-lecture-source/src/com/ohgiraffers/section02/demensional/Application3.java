@@ -1,4 +1,4 @@
-package com.ohgiraffers.section01.demensional;
+package com.ohgiraffers.section02.demensional;
 
 public class Application3 {
     public static void main(String[] args) {
