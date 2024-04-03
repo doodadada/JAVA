@@ -42,7 +42,7 @@ public class Application1 {
         arr[3] = 40;
         arr[4] = 50;
 
-        
+        System.out.println(arr);
         /* 값을 대입할 때도 반복문으로 사용할 수 있다. */
 
         for(int i = 0, value = 0; i<arr.length;i++){ //for문의 초기치 부분에 변수 두개 선언 가능
@@ -66,6 +66,6 @@ public class Application1 {
         }
 
         System.out.println("sum3 = " + sum3);
-        
+
     }
 }
