@@ -41,7 +41,6 @@ public class Application2 {
             public int compare(BookDTO o1, BookDTO o2) {
                 return o1.getPrice()>o2.getPrice()?-1:(o1.getPrice()<o2.getPrice()?1:0);
                 //return o1.getPrice()>=o2.getPrice()?-1:1;
-
             }
         });
         System.out.println("=======가격 내림차순 정렬=====");
@@ -59,6 +58,5 @@ public class Application2 {
         for(BookDTO book : bookList){
             System.out.println(book);
         }
-
     }
 }

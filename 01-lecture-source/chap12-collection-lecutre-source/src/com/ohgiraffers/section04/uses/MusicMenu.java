@@ -106,7 +106,7 @@ public class MusicMenu {
             return; // void함수인데 'return;'을 사용하면 해당함수를 빠져나옵니다.
         }
 
-        /* 정렬 시 원본 데이터를 변경하므로 사본 데이터를 별도로 생성한다. */
+        /* 정렬 시 원본 데s이터를 변경하므로 사본 데이터를 별도로 생성한다. */
         List<MusicDTO> sortList = new ArrayList<>();
         sortList.addAll(musicList);
 
