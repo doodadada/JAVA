@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbfa501d-dc24-4835-9bff-8ac57eb3b7e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../chap14-io-lecture-source/src/com/ohgiraffers/section03/filterstream/Application3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/test/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/test/AscAuthor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/test/AscTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/test/BookDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/test/BookManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/test/BookMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap12-collection-lecutre-source/src/com/ohgiraffers/section01/list/run/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap12-collection-lecutre-source/src/com/ohgiraffers/section01/list/run/Application2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap12-collection-lecutre-source/src/com/ohgiraffers/section04/uses/MusicMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap12-collection-lecutre-source/src/com/ohgiraffers/section04/uses/MusicMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ohgiraffers/bingo/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hi/Desktop/dev/01_JAVA/01-lecture-source/chap12-collection-lecutre-source",
+    "last_opened_file_path": "C:/Users/hi/Desktop/dev/01_JAVA/01-lecture-source/chap10-api-lecture-source",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,6 +55,13 @@
       <recent name="com.ohgiraffers.test" />
     </key>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-temurin-17.0.10-4caba194b151-b3785831" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,7 +71,12 @@
       <option name="presentableId" value="Default" />
       <updated>1712554388415</updated>
       <workItem from="1712554389440" duration="50000" />
-      <workItem from="1712554453700" duration="3566000" />
+      <workItem from="1712554453700" duration="4609000" />
+      <workItem from="1712564312827" duration="55000" />
+      <workItem from="1712564373911" duration="3874000" />
+      <workItem from="1712885432752" duration="10000" />
+      <workItem from="1712887661708" duration="4000" />
+      <workItem from="1713254261216" duration="27000" />
     </task>
     <servers />
   </component>
